@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# don't build and run tests
 
-%include	/usr/lib/rpm/macros.java
 Summary:	Keywhiz is a secret management solution
 Name:		keywhiz
 Version:	0.7.10
